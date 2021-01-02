@@ -1,8 +1,8 @@
 ## Hi there, I'm Alex  
 
+<Br/>
 
-
-## I'm a Computer Science Student! 
+## I'm a Software Developer! 
 
 - I just launched my first big project: [Reside: CRM for real-estate agencies][website]!
 - I’m currently learning TypeScript 
@@ -33,18 +33,8 @@
 
 <br />
 
----
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
