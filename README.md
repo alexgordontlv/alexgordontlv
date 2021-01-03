@@ -7,8 +7,13 @@
 - I just launched my first big project: [Reside: CRM for real-estate agencies][website]!
 - I’m currently learning TypeScript
 - 2021 Goals: Start contributing to Open Source projects
+-
 
-
+<img align="left" alt="ski" width="200px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br/>
+<br />
+<br />
+<br />
+<br />
 ## True Passion:
 
 
@@ -16,7 +21,7 @@
 <br />
 <br />
 <br />
-
+<br />
 
 ### Connect with me:
 
