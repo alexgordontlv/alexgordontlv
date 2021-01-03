@@ -1,4 +1,6 @@
 ## Hi there, I'm Alex  
+<img align="center" alt="ski" width="400px" src="https://www.probytes.net/wp-content/uploads/2018/01/3.jpg" /><br/>
+
 
 <Br/>
 
