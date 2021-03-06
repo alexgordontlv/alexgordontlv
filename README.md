@@ -4,7 +4,7 @@
 
 - Check out my project!: [Reside: CRM for real-estate agencies][website]!
 - I’m currently learning TypeScript
-- I am 
+
 
 <img align="left" alt="ski" width="200px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br/>
 <br />
