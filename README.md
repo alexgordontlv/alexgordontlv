@@ -2,13 +2,11 @@
 
 ## I'm a Software Developer! 
 
-- Check out my projects!: 
-<ul>
-  <li>[Reside: CRM for real-estate agencies][reside]!</li>
-  <li>[Shrinkmy.site: URL shortener app][shrinkmysite]</li>
- </ul>
-- I’m currently learning TypeScript
-- Working on new project: Url-Shortener
+- Check out my projects: 
+- [Reside: CRM for real-estate agencies][reside]!
+-  [Shrinkmy.site: URL shortener app][shrinkmysite]
+<br/>
+- I’m currently learning:  Microservices built with Node, React, Docker and Kubernetes
 
 <img align="left" alt="ski" width="200px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br/>
 <br />
