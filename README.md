@@ -2,7 +2,11 @@
 
 ## I'm a Software Developer! 
 
-- Check out my project!: [Reside: CRM for real-estate agencies][website]!
+- Check out my projects!: 
+<ul>
+  <li>[Reside: CRM for real-estate agencies][reside]!</li>
+  <li>[Shrinkmy.site: URL shortener app][shrinkmysite]</li>
+ </ul>
 - I’m currently learning TypeScript
 - Working on new project: Url-Shortener
 
@@ -58,7 +62,8 @@
 
 </details>
 
-[website]: https://www.reside.co.il
+[reside]: https://www.reside.co.il
+[shrinkmysite]: https://www.shrinkmy.site
 [facebook]: https://www.facebook.com/alex.iablonovsky
 [linkedin]: https://www.linkedin.com/in/alexgordontlv
 ![](https://komarev.com/ghpvc/?username=alexgordontlv&style=flat-square)
