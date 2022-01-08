@@ -1,6 +1,4 @@
-## Hi there, I'm Alex 
-
-## I'm a Software Developer! 
+# Hi there, I'm Alex! 
 
 - Check out my projects: 
 - [Reside: CRM for real-estate agencies][reside]!
