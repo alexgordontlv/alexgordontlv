@@ -6,13 +6,7 @@
 - [Reside: CRM for real-estate agencies][reside]!
 -  [Shrinkmy.site: URL shortener app][shrinkmysite]
 <br/>
-- I’m currently learning:  Microservices built with Node, React, Docker and Kubernetes
 
-<img align="left" alt="ski" width="200px" src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /><br/>
-<br />
-<br />
-<br />
-<br />
 ## True Passion:
 
 
