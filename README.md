@@ -1,8 +1,7 @@
 # Hi there, I'm Alex! 
 
 - Check out my projects: 
-- [Reside: CRM for real-estate agencies][reside]!
--  [Shrinkmy.site: URL shortener app][shrinkmysite]
+-  [[Shrinkmy.site: URL shortener app][shrinkmysite]](https://simple-portal.herokuapp.com/)
 <br/>
 
 ## True Passion:
@@ -52,8 +51,6 @@
 
 </details>
 
-[reside]: https://www.reside.co.il
-[shrinkmysite]: https://www.shrinkmy.site
 [facebook]: https://www.facebook.com/alex.iablonovsky
 [linkedin]: https://www.linkedin.com/in/alexgordontlv
 ![](https://komarev.com/ghpvc/?username=alexgordontlv&style=flat-square)
